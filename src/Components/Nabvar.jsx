@@ -11,8 +11,12 @@ const Nabvar = () => {
           
           }}>
 
-        <img src="sedulous_logo.png" alt="not show" 
-        style={{paddingLeft: '50px',}}/>
+        {/* <img src="1234.jpg" alt="not show" 
+        style=
+        {{paddingLeft: '50px',
+          height: '50px',
+          width: '00px'
+        }}/> */}
 
         <div style={{
             display: 'flex',
